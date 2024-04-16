@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, Abdulla");
+﻿using System;
+
+class Program
+{
+    static void soooo()
+    {
+        Console.WriteLine("Hello, Ayyub!");
+    }
+}
